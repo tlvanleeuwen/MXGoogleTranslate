@@ -10,7 +10,7 @@ Simply add this widget to a page. You can also add it in the layout of the page 
 
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+https://github.com/tlvanleeuwen/MXGoogleTranslate/issues
 
 ## Development and contribution
-[specify contribute]
+Tim van Leeuwen
